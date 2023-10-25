@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "shilpa",
+      "lastName": "N",
+      "email": "shilpaheidi777@gmail.com",
+      "dob": "2023-10-10T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "MCA",
+      "experience": "1",
+      "package": "2233",
+      "id": 1
+    },
+    {
+      "firstName": "shilp",
+      "lastName": "n",
+      "email": "shilpaheidi777@gmail.com",
+      "dob": "2023-10-09T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "MCA",
+      "experience": "",
+      "package": "2345",
+      "id": 2
+    }
+  ]
+}
